@@ -1,5 +1,5 @@
 # Chrono-Meter
-A memory card game to help you remember flags from different countries.
+A chrono-meter that allows you to keep track of what you are doing. This app was originally developed to help language learning students when practicing for tests. 
 
 ---
 
@@ -15,18 +15,18 @@ Homepage
 
 <img src="https://raw.githubusercontent.com/mflanagan924/Chrono-Meter/main/preview.PNG"></img>
 
+In use with table
+
+<img src="https://raw.githubusercontent.com/mflanagan924/Chrono-Meter/main/example.PNG"></img>
+
 ## Instructions
 
-Try matching the country flag to the country name. This game is not as easy as it seems because it is testing you on flags that look very similar.
-
-* Level 1: Norway, Iceland, Kenya, South Sudan, Italy, Mexico, Peru, and Canada
-* Level 2: Columbia, Venezuela, Ecuador, USA, Malaysia, Liberia, Hungary, and Tajikistan
-* Level 3: Andorra, Moldova, India, Niger, Bolivia, Ghana, Haiti, and Liechtenstein
-* Level 4: Russia, Slovenia, Slovakia, Monaco, Indonesia, Poland, Bahrain, and Qatar
-* Level 5: Argentina, El Salvador, Nicaragua, Honduras, Netherlands, Luxembourg, Croatia, and Paraguay
-* Level 6: Egypt, Iraq, Yemen, Sudan, and Syria
-* Level 7: Australia, New Zealand, Chad, Romania, Guinea, Mali, Ireland, and Ivory Coast
-
+* Click "Start" to start th timer.
+* Click "Pause" to pause the timer. You will see the table below.
+* If you want you can add a note. Click "Save Note" to save the note.
+* If you want you can reset the clock to zero.
+* If you want to restart the table, click "Reset Table".
+* When you are finished, click "Download Table" to download a CSV.
 
 # Getting Started with Create React App
 
