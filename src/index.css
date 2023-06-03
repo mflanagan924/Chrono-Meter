@@ -1,0 +1,151 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+#buttonOne {
+  margin-right: 20px;
+  border-radius: 10px;
+  width: 120px;
+  border-width: 4px;
+  border-style: solid;
+  border-image: linear-gradient(to right, rgb(0,38,84)) 1;
+  background: none;
+  padding: 5px;
+  font-size: 15px;
+}
+
+#buttonTwo {
+  margin-right: 20px;
+  border-radius: 10px;
+  width: 120px;
+  border-width: 4px;
+  border-style: solid;
+  border-image: linear-gradient(to right, rgb(0,38,84)) 1;
+  background: none;
+  padding: 5px;
+  font-size: 15px;
+}
+
+#buttonThree {
+  margin-right: 20px;
+  border-radius: 10px;
+  width: 120px;
+  border: 4px solid rgb(237,41,57);
+  background: none;
+  padding: 5px;
+  font-size: 15px;
+}
+
+#buttonFour {
+  margin-right: 20px;
+  border-radius: 10px;
+  width: 120px;
+  border: 4px solid rgb(237,41,57);
+  background: none;
+  padding: 5px;
+  font-size: 15px;
+}
+
+#table {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: auto;
+  margin-top: auto;
+
+}
+
+#title {
+  margin-bottom: 5px;
+  background: linear-gradient(to right, rgb(0,38,84), rgb(255,255,255), rgb(237,41,57));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 50px;
+}
+
+#timer-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+#save-notes {
+  display: flex;
+  justify-content: center;
+  margin-top: auto;
+  margin-bottom: 3px;
+  margin-right: 20px;
+  width: 120px;
+  border: 4px solid rgb(237,41,57);
+  background: none;
+  padding: 5px;
+  font-size: 15px;
+  margin-left: 10px;
+  align-items: center;
+  width: 150px;
+  border-radius: 10px;
+}
+
+#download-table{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  width: 200px;
+  margin-right: 150px;
+  border: 4px solid rgb(237,41,57);
+  background: none;
+  padding: 5px;
+  font-size: 15px;
+  border-radius: 10px;
+}
+
+
+
+#timer {
+  font-family: 'Roboto', sans-serif;
+  border-width: 4px;
+  border-style: solid;
+  border-image: linear-gradient(to right, rgb(0,38,84), rgb(255,255,255), rgb(237,41,57)) 1;
+  padding: 20px;
+  padding-right: 40px;
+  padding-left: 40px;
+  margin-top:0px;
+}
+
+table {
+  margin-top: 20px;
+  width: 100%;
+  border-collapse: collapse;
+  background-color: blue;
+}
+
+th,
+td {
+  padding: 8px;
+  border: 1px solid #ddd;
+  color: white;
+}
+
+th {
+  background-color: red;
+}
+
+input[type="text"] {
+  width: 90%;
+  padding: 4px 8px;
+  border: 1px solid #ddd;
+  display: flex;
+  justify-content: center; /* Center horizontally */
+
+}
+
