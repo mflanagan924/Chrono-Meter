@@ -13,7 +13,7 @@ A memory card game to help you remember flags from different countries.
 
 Homepage
 
-<img src="https://raw.githubusercontent.com/mflanagan924/memory-card-game/main/Preview.PNG"></img>
+<img src="https://raw.githubusercontent.com/mflanagan924/Chrono-Meter/main/preview.PNG"></img>
 
 ## Instructions
 
